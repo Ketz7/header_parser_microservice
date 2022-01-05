@@ -1,7 +1,6 @@
-# Language and Framework used
-![Javascript](https://img.shields.io/badge/Language-Javascript-brightgreen) ![Expres](https://img.shields.io/badge/Framework-Express-brightgreen)
 # [Request Header Parser Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice)
-# Request Header Parser Microservice for FreeCodeCamp Backend Development and API's Project
+# Language and Framework
+![Javascript](https://img.shields.io/badge/Language-Javascript-brightgreen) ![Expres](https://img.shields.io/badge/Framework-Express-brightgreen)
 
 This is a Node.js (with Express.js) little application which is part of the FCC Back End Certification. It gives data about the headers.
 
